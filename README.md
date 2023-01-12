@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yoon's%20Github&fontSize=50&animation=fadeIn&fontColor=000000)
 
 ## :shipit: Personal Info
+- Seung Won Yoon
 - Inha Technical College / Computer System 
 - get_ant@naver.com<br>
 
