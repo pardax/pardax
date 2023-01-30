@@ -30,7 +30,7 @@
 
 ## :potato: Projects
 *testing   
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+[![Video Label](http://img.youtube.com/vi/t8BDc-IJk2g/0.jpg)](https://youtu.be/t8BDc-IJk2g)
 > Ant Cafe Simulation   
 > testing
 ***
