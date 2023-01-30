@@ -29,8 +29,8 @@
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=pardax&layout=compact&theme=dracula)
 
 ## :potato: Projects
-*testing   
 [![Video Label](http://img.youtube.com/vi/t8BDc-IJk2g/0.jpg)](https://youtu.be/t8BDc-IJk2g)
 > Ant Cafe Simulation   
-> testing
+> 학교 재학 중 제작한 개인 프로젝트로 간단하게 즐길 수 있는 클리커 게임,<br>
+> 카페에 방문하는 손님들에게 요구하는 메뉴를 제공하여 평판을 쌓아 엔딩을 보는것이 목적.
 ***
