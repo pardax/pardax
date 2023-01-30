@@ -3,7 +3,7 @@
 ## :shipit: Personal Info
 - Seung Won Yoon
 - Inha Technical College / Computer System 
-- get_ant@naver.com<br>
+- get_ant@&#65279;naver.com<br>
 
 
 ## 🔨 Technology Stacks
