@@ -27,3 +27,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardax&show_icons=true&theme=radical&hide=stars)
 
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=pardax&layout=compact&theme=dracula)
+
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
