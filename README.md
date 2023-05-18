@@ -32,7 +32,7 @@
 [![Video Label](http://img.youtube.com/vi/rTrZQxkkb_8/0.jpg)](https://youtu.be/rTrZQxkkb_8)
 - Goddess of Victory : Nikke Imitation 
 > 승리의 여신 니케를 유니티3D로 모작
-<br><br>
+<br/><br/><br/>
 
 [![Video Label](http://img.youtube.com/vi/t8BDc-IJk2g/0.jpg)](https://youtu.be/t8BDc-IJk2g)
 - Ant Cafe Simulation   
