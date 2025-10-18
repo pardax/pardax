@@ -16,11 +16,8 @@
 <span><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/></span>
 <br>
 
-
 ## :octocat: Git Info
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardax&show_icons=true&theme=radical&hide=stars)-->
-
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=pardax&layout=compact&theme=dracula)
 
 ## :potato: Projects
 [![Video Label](http://img.youtube.com/vi/rTrZQxkkb_8/0.jpg)](https://youtu.be/rTrZQxkkb_8)
